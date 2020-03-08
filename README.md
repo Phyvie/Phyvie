@@ -1,4 +1,3 @@
 # Phyvie
 Starting Repository
-ich bin der Katzenschreck
-ich mach die Katze weg
+Farbvalue und Zahlvalue; Falls Farbe = Farbe -> Lösche alle mit gleicher Zahl (Bei Bubblegravitation muss neue Zahlzuweisung stattfinden)
